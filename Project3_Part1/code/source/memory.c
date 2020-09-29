@@ -2,7 +2,7 @@
  * memory.c
  *
  *  Created on: Oct 20, 2019
- *      Author: SURAJ THITE
+ *      Author: ATHARV DESAI & SURAJ THITE
  */
 
 #include <stdio.h>
